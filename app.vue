@@ -31,7 +31,7 @@
         <h2 class="text-2xl font-semibold mb-4 text-white text-center">Proyek Saya</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
           <div class="bg-black bg-opacity-85 p-5 rounded-lg shadow-md transition duration-500 transform hover:scale-105 hover:shadow-lg mb-4">
-            <img src="/assets/img/project1.JPG" alt="Proyek 1" class="w-full h-64 object-cover rounded-t-lg mb-2" />
+            <img src="/assets/img/project1.jpg" alt="Proyek 1" class="w-full h-64 object-cover rounded-t-lg mb-2" />
             <h3 class="font-bold text-white text-center">Proyek 1</h3>
             <p class="text-white text-center">Deskripsi proyek 1.</p>
           </div>
