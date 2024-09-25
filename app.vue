@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-screen flex flex-col items-center" style="background: linear-gradient(to bottom, black, #2c3e50);">
+  <div class="min-h-screen flex flex-col items-center" style="background-color: #2c3e50;"> 
     <header class="bg-black bg-opacity-100 shadow w-full p-5">
       <h1 class="text-3xl font-bold text-center text-white">Ivan AryaPutra Rachmadhani Portfolio's</h1>
       <nav class="mt-4">
@@ -8,8 +8,7 @@
           <li><a href="#projects" class="text-white hover:text-green-500">Projects</a></li>
           <li><a href="#experience" class="text-white hover:text-green-500">Experience</a></li>
           <li><a href="#contact" class="text-white hover:text-green-500">Contact</a></li>
-          <li><a href="/assets/portfolio.pdf" class="text-white hover:text-green-500" download>Download Portfolio</a></li>
-          <li><a href="/assets/cv.pdf" class="text-white hover:text-green-500" download>Download CV</a></li>
+          <li><a href="/assets/cv.pdf" class="text-white hover:text-green-500" download>CV</a></li>
         </ul>
       </nav>
     </header>
