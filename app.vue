@@ -145,14 +145,6 @@
       <p class="text-white text-center">Social Media Team & Merchandise Designer</p>
     </div>
     <div class="bg-black bg-opacity-85 p-5 rounded-lg shadow-md transition duration-500 transform hover:scale-105 hover:shadow-lg mb-4">
-      <video controls class="w-full h-64 object-cover rounded-lg mb-2">
-        <source src="/assets/videos/video1.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-      <h3 class="font-bold text-white text-center">After Movie PKKMABA FV UB 2024</h3>
-      <p class="text-white text-center">Videographer & Editor</p>
-    </div>
-    <div class="bg-black bg-opacity-85 p-5 rounded-lg shadow-md transition duration-500 transform hover:scale-105 hover:shadow-lg mb-4">
       <img src="/assets/img/project2.png" alt="Proyek 2" class="w-full h-64 object-cover rounded-t-lg mb-2" />
       <h3 class="font-bold text-white text-center">Website CV. SolusiNet Abadi Jaya</h3>
       <p class="text-white text-center">Coming Soon (January)</p>
