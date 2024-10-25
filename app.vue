@@ -458,13 +458,13 @@ body {
 .timeline-content {
   padding-left: 40px; /* Memberikan ruang untuk titik */
   font-size: 1.2em; /* Memperbesar ukuran font konten */
+  padding: 20px; /* Adjust padding for smaller screens */
 }
 
 /* Responsif */
 @media (max-width: 768px) {
-  .timeline-item {
-    width: 100%; /* Lebar item 100% untuk layar kecil */
-    padding: 15px; /* Menyesuaikan padding untuk perangkat kecil */
+  header {
+    padding: 10px;
   }
 }
 
@@ -492,10 +492,9 @@ body {
   }
 
 .skill-logo {
-  width: 64px; 
-  height: 64px; 
-  object-fit: contain; 
-}
+    width: 40px; /* Smaller icons for mobile */
+    height: 40px;
+  }
 
 .fade-in {
   opacity: 0;
