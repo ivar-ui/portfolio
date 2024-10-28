@@ -304,7 +304,7 @@
 </section>
 
 <section id="mockup-display" class="w-full bg-gray-800 bg-opacity-85 rounded-lg py-4 mb-10">
-    <h2 class="text-lg font-semibold text-white text-center mb-4">Mockup Design Results</h2>
+    <h2 class="text-lg font-semibold text-white text-center mb-4">Tampilan Mockup</h2>
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 px-4">
         <div class="mockup-item bg-gray-700 rounded-lg overflow-hidden">
             <img src="/assets/img/mockup1.png" alt="Mockup 1" class="w-full h-[auto] aspect-[3/4] object-cover" />
@@ -330,13 +330,26 @@
     </div>
 </section>
 
-      <section id="contact" class="w-full mb-5">
-        <h2 class="text-2xl font-semibold mb-4 text-white text-center">Contact</h2>
-        <ul class="social-links">
-        <li><a href="https://github.com/ivar-ui"><img src="/assets/img/github.png" alt="Facebook"></a></li>
-        <li><a href="https://www.instagram.com/ivannaryaa/?__pwa=1#"><img src="/assets/img/instagram.png" alt="Instagram"></a></li>
-      </ul>
-      </section>
+<section id="Contact" class="">
+    <h2 class="text-xl font-semibold text-white text-center mb-6">Follow Us</h2>
+    <div class="flex justify-center space-x-6">
+        <a href="https://www.instagram.com/ivannaryaa/?__pwa=1#" class="flex items-center text-white hover:text-blue-400">
+            <i class="fab fa-instagram fa-2x"></i>
+            <span class="ml-2 text-lg">Instagram</span>
+        </a>
+        <a href="https://github.com/ivar-ui" class="flex items-center text-white hover:text-blue-400">
+            <i class="fab fa-github fa-2x"></i>
+            <span class="ml-2 text-lg">GitHub</span>
+        </a>
+        <a href="https://www.linkedin.com/in/ivan-aryaputra-rachmadhani-3b7222275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" class="flex items-center text-white hover:text-blue-400">
+            <i class="fab fa-linkedin fa-2x"></i>
+            <span class="ml-2 text-lg">LinkedIn</span>
+        </a>
+    </div>
+</section>
+
+<!-- Include Font Awesome CDN for icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     </main>
     
     <footer class="mt-auto bg-black w-full p-2 text-center">
