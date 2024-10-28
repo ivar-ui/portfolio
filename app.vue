@@ -262,43 +262,43 @@
 </section>
 
 <section id="press-release" class="w-full bg-gray-900 bg-opacity-85 rounded-lg py-4 mb-10">
-    <h2 class="text-lg font-semibold text-white text-center mb-4">Press Release Results</h2>
+    <h2 class="text-xl font-semibold text-white text-center mb-6">Press Release Results</h2>
     <div class="px-4">
         <div class="press-item bg-gray-800 rounded-lg p-4 mb-4">
-            <h3 class="text-md font-bold text-white">KEMERIAHAN KRIDA MAHASISWA 2 FAKULTAS VOKASI UB DENGAN TEMA STUDENT DAY</h3>
-            <p class="text-gray-400 text-sm">Malang, 21 September 2024</p>
-            <p class="text-gray-300 text-sm">Fakultas Vokasi Universitas Brawijaya sukses menyelenggarakan acara Krida Mahasiswa pada hari ini. Dihadiri oleh lima program studi dari dua departemen, yaitu Teknologi Informasi dan Desain Grafis dari Departemen Industri Kreatif dan Digital, kemudian Administrasi Bisnis, Keuangan dan Perbankan, serta Manajemen Perhotelan dari Departemen Bisnis dan Hospitality</p>
-            <a href="https://vokasi.ub.ac.id/kemeriahan-krida-mahasiswa-2-fakultas-vokasi-ub-dengan-tema-student-day/" class="text-blue-400 hover:underline text-xs">Baca Selengkapnya</a>
+            <h3 class="text-lg font-bold text-white">KEMERIAHAN KRIDA MAHASISWA 2 FAKULTAS VOKASI UB DENGAN TEMA STUDENT DAY</h3>
+            <p class="text-gray-400 text-base">Malang, 21 September 2024</p>
+            <p class="text-gray-300 text-base">Fakultas Vokasi Universitas Brawijaya sukses menyelenggarakan acara Krida Mahasiswa pada hari ini. Dihadiri oleh lima program studi dari dua departemen, yaitu Teknologi Informasi dan Desain Grafis dari Departemen Industri Kreatif dan Digital, kemudian Administrasi Bisnis, Keuangan dan Perbankan, serta Manajemen Perhotelan dari Departemen Bisnis dan Hospitality</p>
+            <a href="https://vokasi.ub.ac.id/kemeriahan-krida-mahasiswa-2-fakultas-vokasi-ub-dengan-tema-student-day/" class="text-blue-400 hover:underline text-sm">Baca Selengkapnya</a>
         </div>
         <div class="press-item bg-gray-800 rounded-lg p-4 mb-4">
-            <h3 class="text-md font-bold text-white">Kampung Lingkar Kampus “Karnaval Budaya RW. 03 Sumbersari Kota Malang”</h3>
-            <p class="text-gray-400 text-sm">Malang, 1 September 2024</p>
-            <p class="text-gray-300 text-sm">Fakultas Vokasi Universitas Brawijaya (UB) kembali menunjukkan komitmennya dalam mendukung pelestarian budaya dan pengembangan komunitas lokal dengan meliput event Karnaval Budaya RW 03 Sumbersari, Kota Malang.</p>
-            <a href="https://vokasi.ub.ac.id/podcast-on-the-street-kampung-lingkar-kampus-karnaval-budaya-rw-03-sumbersari-kota-malang/" class="text-blue-400 hover:underline text-xs">Baca Selengkapnya</a>
+            <h3 class="text-lg font-bold text-white">Kampung Lingkar Kampus “Karnaval Budaya RW. 03 Sumbersari Kota Malang”</h3>
+            <p class="text-gray-400 text-base">Malang, 1 September 2024</p>
+            <p class="text-gray-300 text-base">Fakultas Vokasi Universitas Brawijaya (UB) kembali menunjukkan komitmennya dalam mendukung pelestarian budaya dan pengembangan komunitas lokal dengan meliput event Karnaval Budaya RW 03 Sumbersari, Kota Malang.</p>
+            <a href="https://vokasi.ub.ac.id/podcast-on-the-street-kampung-lingkar-kampus-karnaval-budaya-rw-03-sumbersari-kota-malang/" class="text-blue-400 hover:underline text-sm">Baca Selengkapnya</a>
         </div>
         <div class="press-item bg-gray-800 rounded-lg p-4 mb-4">
-            <h3 class="text-md font-bold text-white">PKKMB YUWARAJA XVI 2024 FAKULTAS VOKASI SUKSES DIGELAR</h3>
-            <p class="text-gray-400 text-sm">Malang, 18 Agustus 2024</p>
-            <p class="text-gray-300 text-sm">Kegiatan Pengenalan Kehidupan Kampus bagi Mahasiswa Baru (PKKMB) Yuwaraja Fakultas Vokasi Universitas Brawijaya memasuki hari ketiga dengan penuh semangat dan antusiasme.</p>
-            <a href="https://vokasi.ub.ac.id/pkkmb-yuwaraja-xvi-2024-fakultas-vokasi-sukses-digelar/" class="text-blue-400 hover:underline text-xs">Baca Selengkapnya</a>
+            <h3 class="text-lg font-bold text-white">PKKMB YUWARAJA XVI 2024 FAKULTAS VOKASI SUKSES DIGELAR</h3>
+            <p class="text-gray-400 text-base">Malang, 18 Agustus 2024</p>
+            <p class="text-gray-300 text-base">Kegiatan Pengenalan Kehidupan Kampus bagi Mahasiswa Baru (PKKMB) Yuwaraja Fakultas Vokasi Universitas Brawijaya memasuki hari ketiga dengan penuh semangat dan antusiasme.</p>
+            <a href="https://vokasi.ub.ac.id/pkkmb-yuwaraja-xvi-2024-fakultas-vokasi-sukses-digelar/" class="text-blue-400 hover:underline text-sm">Baca Selengkapnya</a>
         </div>
         <div class="press-item bg-gray-800 rounded-lg p-4 mb-4">
-            <h3 class="text-md font-bold text-white">Inisiasi Kerjasama Fakultas Vokasi Universitas Brawijaya dengan Swinburne University of Technology, Australia</h3>
-            <p class="text-gray-400 text-sm">Malang, 2 Juli 2024</p>
-            <p class="text-gray-300 text-sm">Fakultas Vokasi Universitas Brawijaya (UB) mengadakan acara penting yaitu “Pembahasan Inisiasi Kerjasama dengan Swinburne University of Technology, Australia” dan presentasi oleh KPS D4 Desain Grafis FV UB terkait “Digitalization of Indonesia Local Culture”.</p>
-            <a href="https://vokasi.ub.ac.id/inisiasi-kerjasama-fakultas-vokasi-universitas-brawijaya-dengan-swinburne-university-of-technology-australia/" class="text-blue-400 hover:underline text-xs">Baca Selengkapnya</a>
+            <h3 class="text-lg font-bold text-white">Inisiasi Kerjasama Fakultas Vokasi Universitas Brawijaya dengan Swinburne University of Technology, Australia</h3>
+            <p class="text-gray-400 text-base">Malang, 2 Juli 2024</p>
+            <p class="text-gray-300 text-base">Fakultas Vokasi Universitas Brawijaya (UB) mengadakan acara penting yaitu “Pembahasan Inisiasi Kerjasama dengan Swinburne University of Technology, Australia” dan presentasi oleh KPS D4 Desain Grafis FV UB terkait “Digitalization of Indonesia Local Culture”.</p>
+            <a href="https://vokasi.ub.ac.id/inisiasi-kerjasama-fakultas-vokasi-universitas-brawijaya-dengan-swinburne-university-of-technology-australia/" class="text-blue-400 hover:underline text-sm">Baca Selengkapnya</a>
         </div>
         <div class="press-item bg-gray-800 rounded-lg p-4 mb-4">
-            <h3 class="text-md font-bold text-white">Pemanfaatan Teknologi AI Untuk Meningkatkan Kualitas Penulisan Publikasi Internasional</h3>
-            <p class="text-gray-400 text-sm">Malang, 4 Juli 2024</p>
-            <p class="text-gray-300 text-sm"> Dekan Fakultas Vokasi Universitas Brawijaya Bapak Muhammad Kholid Mawardi, S.Sos., M.A.B., Ph.D mengadakan acara kuliah tamu khusus bagi Dosen Fakultas Vokasi yang telah diundang untuk mengikuti pembahasan materi tentang “pemanfaatan teknologi AI untuk meningkatkan kualitas penulisan publikasi internasional” yang dilaksanakan di Ruang Sidang Lantai 4 Gedung Vokasi Jalan Veteran No.</p>
-            <a href="https://vokasi.ub.ac.id/pemanfaatan-teknologi-ai-untuk-meningkatkan-kualitas-penulisan-publikasi-internasional/" class="text-blue-400 hover:underline text-xs">Baca Selengkapnya</a>
+            <h3 class="text-lg font-bold text-white">Pemanfaatan Teknologi AI Untuk Meningkatkan Kualitas Penulisan Publikasi Internasional</h3>
+            <p class="text-gray-400 text-base">Malang, 4 Juli 2024</p>
+            <p class="text-gray-300 text-base">Dekan Fakultas Vokasi Universitas Brawijaya Bapak Muhammad Kholid Mawardi, S.Sos., M.A.B., Ph.D mengadakan acara kuliah tamu khusus bagi Dosen Fakultas Vokasi yang telah diundang untuk mengikuti pembahasan materi tentang “pemanfaatan teknologi AI untuk meningkatkan kualitas penulisan publikasi internasional” yang dilaksanakan di Ruang Sidang Lantai 4 Gedung Vokasi Jalan Veteran No.</p>
+            <a href="https://vokasi.ub.ac.id/pemanfaatan-teknologi-ai-untuk-meningkatkan-kualitas-penulisan-publikasi-internasional/" class="text-blue-400 hover:underline text-sm">Baca Selengkapnya</a>
         </div>
         <div class="press-item bg-gray-800 rounded-lg p-4 mb-4">
-            <h3 class="text-md font-bold text-white">Inbound Universitas Brawijaya dan Universitas Teknologi Petronas Malaysia</h3>
-            <p class="text-gray-400 text-sm">Malang, 22 April 2024 </p>
-            <p class="text-gray-300 text-sm">Universitas Brawijaya dan Universitas Teknologi Petronas menggelar acara inbound pada hari ini, acara ini dilaksanakan di Gedung Laboratorium dan Industri Kreatif Fakultas Vokasi Universitas Brawijaya.</p>
-            <a href="https://vokasi.ub.ac.id/inbound-universitas-brawijaya-dan-universitas-teknologi-petronas-malaysia/" class="text-blue-400 hover:underline text-xs">Baca Selengkapnya</a>
+            <h3 class="text-lg font-bold text-white">Inbound Universitas Brawijaya dan Universitas Teknologi Petronas Malaysia</h3>
+            <p class="text-gray-400 text-base">Malang, 22 April 2024</p>
+            <p class="text-gray-300 text-base">Universitas Brawijaya dan Universitas Teknologi Petronas menggelar acara inbound pada hari ini, acara ini dilaksanakan di Gedung Laboratorium dan Industri Kreatif Fakultas Vokasi Universitas Brawijaya.</p>
+            <a href="https://vokasi.ub.ac.id/inbound-universitas-brawijaya-dan-universitas-teknologi-petronas-malaysia/" class="text-blue-400 hover:underline text-sm">Baca Selengkapnya</a>
         </div>
     </div>
 </section>
