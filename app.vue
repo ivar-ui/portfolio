@@ -336,7 +336,6 @@
         <li><a href="https://github.com/ivar-ui"><img src="/assets/img/github.png" alt="Facebook"></a></li>
         <li><a href="https://www.instagram.com/ivannaryaa/?__pwa=1#"><img src="/assets/img/instagram.png" alt="Instagram"></a></li>
       </ul>
-        <p class="text-white text-center">085707960079 | ivanarya990@gmail.com</p>
       </section>
     </main>
     
