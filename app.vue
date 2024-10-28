@@ -330,7 +330,7 @@
     </div>
 </section>
 
-<section id="Contact" class="">
+<section id="Contact" class="w-full mb-10">
     <h2 class="text-xl font-semibold text-white text-center mb-6">Contact</h2>
     <div class="flex justify-center space-x-6">
         <a href="https://www.instagram.com/ivannaryaa/?__pwa=1#" class="flex items-center text-white hover:text-blue-400">
