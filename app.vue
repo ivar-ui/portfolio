@@ -304,7 +304,7 @@
 </section>
 
 <section id="mockup-display" class="w-full bg-gray-800 bg-opacity-85 rounded-lg py-4 mb-10">
-    <h2 class="text-lg font-semibold text-white text-center mb-4">Tampilan Mockup</h2>
+    <h2 class="text-lg font-semibold text-white text-center mb-4">Mockup Design Results</h2>
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 px-4">
         <div class="mockup-item bg-gray-700 rounded-lg overflow-hidden">
             <img src="/assets/img/mockup1.png" alt="Mockup 1" class="w-full h-[auto] aspect-[3/4] object-cover" />
