@@ -131,6 +131,7 @@
         <h2 class="text-xl font-semibold mb-2 text-white">Pengelola Sistem Informasi dan Kehumasan Fakultas Vokasi</h2>
         <h3 class="text-lg font-semibold mb-2">- Social Media Specialist.</h3>
         <h3 class="text-lg font-semibold mb-2">- Copywriter & Reporter.</h3>
+        <h3 class="text-lg font-semibold mb-2">- Photo & Videographer.</h3>
       </div>
     </div>
   </div>
@@ -141,13 +142,13 @@
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="bg-black bg-opacity-85 p-5 rounded-lg shadow-md transition duration-500 transform hover:scale-105 hover:shadow-lg mb-4">
       <img src="/assets/img/project6.jpg" alt="Proyek 4" class="w-full h-64 object-cover rounded-t-lg mb-2" />
-      <h3 class="font-bold text-white text-center">Vokasi Merchandise (Coming Soon)</h3>
-      <p class="text-white text-center">Social Media Team & Merchandise Designer</p>
+      <h3 class="font-bold text-white text-center">Company Profile Sanggar Wayang : Gumelaring Sasangka Aji</h3>
+      <p class="text-white text-center">Photo & Videographer</p>
     </div>
     <div class="bg-black bg-opacity-85 p-5 rounded-lg shadow-md transition duration-500 transform hover:scale-105 hover:shadow-lg mb-4">
       <img src="/assets/img/project2.png" alt="Proyek 2" class="w-full h-64 object-cover rounded-t-lg mb-2" />
-      <h3 class="font-bold text-white text-center">Website CV. SolusiNet Abadi Jaya</h3>
-      <p class="text-white text-center">Coming Soon (January)</p>
+      <h3 class="font-bold text-white text-center">Globalizing Universitas Brawijaya : Wayang Karakter Brawijayan</h3>
+      <p class="text-white text-center">Videographer & Editor</p>
     </div>
     <div class="bg-black bg-opacity-85 p-5 rounded-lg shadow-md transition duration-500 transform hover:scale-105 hover:shadow-lg mb-4">
       <img src="/assets/img/project1.jpeg" alt="Proyek 1" class="w-full h-64 object-cover rounded-t-lg mb-2" />
