@@ -146,7 +146,7 @@
       <p class="text-white text-center">Photo & Videographer</p>
     </div>
     <div class="bg-black bg-opacity-85 p-5 rounded-lg shadow-md transition duration-500 transform hover:scale-105 hover:shadow-lg mb-4">
-      <img src="/assets/img/project2.png" alt="Proyek 2" class="w-full h-64 object-cover rounded-t-lg mb-2" />
+      <img src="/assets/img/project2.jpg" alt="Proyek 2" class="w-full h-64 object-cover rounded-t-lg mb-2" />
       <h3 class="font-bold text-white text-center">Globalizing Universitas Brawijaya : Wayang Karakter Brawijayan</h3>
       <p class="text-white text-center">Videographer & Editor</p>
     </div>
