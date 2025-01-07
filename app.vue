@@ -141,6 +141,11 @@
   <h2 class="text-2xl font-semibold mb-4 mt-16 text-white text-center w-full mx-auto">Recent Projects</h2>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="bg-black bg-opacity-85 p-5 rounded-lg shadow-md transition duration-500 transform hover:scale-105 hover:shadow-lg mb-4">
+      <img src="/assets/img/project7.jpg" alt="Proyek 2" class="w-full h-64 object-cover rounded-t-lg mb-2" />
+      <h3 class="font-bold text-white text-center">Dies Natalis 62 UB : Drama Kolosal Hikayat Raja Brawijaya</h3>
+      <p class="text-white text-center">Videographer & Editor</p>
+    </div>
+    <div class="bg-black bg-opacity-85 p-5 rounded-lg shadow-md transition duration-500 transform hover:scale-105 hover:shadow-lg mb-4">
       <img src="/assets/img/project6.jpg" alt="Proyek 4" class="w-full h-64 object-cover rounded-t-lg mb-2" />
       <h3 class="font-bold text-white text-center">Company Profile Sanggar Wayang : Gumelaring Sasangka Aji</h3>
       <p class="text-white text-center">Photo & Videographer</p>
