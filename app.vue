@@ -25,7 +25,7 @@
       <section class="mb-12">
             <div class="bg-white rounded-lg overflow-hidden shadow">
                 <div class="aspect-w-16 aspect-h-9">
-                    <video src="video/bumper1.mp4" frameborder="0" 
+                    <video src="/asset/img/bumper1.mp4" frameborder="0" 
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
                         allowfullscreen autoplay loop muted></video>
                 </div>
