@@ -28,7 +28,7 @@
             <video src="/assets/img/bumper1.mp4" 
                    frameborder="0" 
                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                   allowfullscreen autoplay loop style="width: 80%; height: auto;"></video>
+                   allowfullscreen autoplay loop></video>
         </div>
     </div>
 </section>
