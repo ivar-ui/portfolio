@@ -319,33 +319,6 @@
     </div>
 </section>
 
-<section id="mockup-display" class="w-full bg-gray-800 bg-opacity-85 rounded-lg py-4 mb-10">
-    <h2 class="text-lg font-semibold text-white text-center mb-4">Mockup Design Results</h2>
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 px-4">
-        <div class="mockup-item bg-gray-700 rounded-lg overflow-hidden">
-            <img src="/assets/img/mockup1.png" alt="Mockup 1" class="w-full h-[auto] aspect-[3/4] object-cover" />
-            <div class="p-2">
-                <h3 class="text-md font-bold text-white">Mockup T-Shirt VoksMerch</h3>
-                <p class="text-gray-400 text-sm">Use Photoshop.</p>
-            </div>
-        </div>
-        <div class="mockup-item bg-gray-700 rounded-lg overflow-hidden">
-            <img src="/assets/img/jersey1.png" alt="Mockup 2" class="w-full h-[auto] aspect-[3/4] object-cover" />
-            <div class="p-2">
-                <h3 class="text-md font-bold text-white">Mockup Jersey Futsal /Front</h3>
-                <p class="text-gray-400 text-sm">Use Photoshop.</p>
-            </div>
-        </div>
-        <div class="mockup-item bg-gray-700 rounded-lg overflow-hidden">
-            <img src="/assets/img/jersey2.png" alt="Mockup 3" class="w-full h-[auto] aspect-[3/4] object-cover" />
-            <div class="p-2">
-                <h3 class="text-md font-bold text-white">Mockup Jersey Futsal /Back</h3>
-                <p class="text-gray-400 text-sm">Use Photoshop.</p>
-            </div>
-        </div>
-    </div>
-</section>
-
 <section id="contact" class="w-full mb-10">
     <h2 class="text-xl font-semibold text-white text-center mb-6">Contact</h2>
     <div class="flex justify-center space-x-6">
