@@ -271,6 +271,48 @@
             <p class="text-gray-400 text-xs">Deskripsi singkat tentang desain ini.</p>
           </div>
         </div>
+        <div class="carousel-item flex-shrink-0 w-[280px] h-[280px]"> <!-- Mengatur ukuran menjadi 300x300 -->
+          <img src="/assets/img/design13.png" alt="Desain 4" class="w-full h-full object-cover" />
+          <div class="p-2">
+            <h3 class="text-sm text-white">Desain 5</h3>
+            <p class="text-gray-400 text-xs">Deskripsi singkat tentang desain ini.</p>
+          </div>
+        </div>
+        <div class="carousel-item flex-shrink-0 w-[280px] h-[280px]"> <!-- Mengatur ukuran menjadi 300x300 -->
+          <img src="/assets/img/design14.png" alt="Desain 4" class="w-full h-full object-cover" />
+          <div class="p-2">
+            <h3 class="text-sm text-white">Desain 5</h3>
+            <p class="text-gray-400 text-xs">Deskripsi singkat tentang desain ini.</p>
+          </div>
+        </div>
+        <div class="carousel-item flex-shrink-0 w-[280px] h-[280px]"> <!-- Mengatur ukuran menjadi 300x300 -->
+          <img src="/assets/img/design15.jpg" alt="Desain 4" class="w-full h-full object-cover" />
+          <div class="p-2">
+            <h3 class="text-sm text-white">Desain 5</h3>
+            <p class="text-gray-400 text-xs">Deskripsi singkat tentang desain ini.</p>
+          </div>
+        </div>
+        <div class="carousel-item flex-shrink-0 w-[280px] h-[280px]"> <!-- Mengatur ukuran menjadi 300x300 -->
+          <img src="/assets/img/design16.jpg" alt="Desain 4" class="w-full h-full object-cover" />
+          <div class="p-2">
+            <h3 class="text-sm text-white">Desain 5</h3>
+            <p class="text-gray-400 text-xs">Deskripsi singkat tentang desain ini.</p>
+          </div>
+        </div>
+        <div class="carousel-item flex-shrink-0 w-[280px] h-[280px]"> <!-- Mengatur ukuran menjadi 300x300 -->
+          <img src="/assets/img/design17.jpg" alt="Desain 4" class="w-full h-full object-cover" />
+          <div class="p-2">
+            <h3 class="text-sm text-white">Desain 5</h3>
+            <p class="text-gray-400 text-xs">Deskripsi singkat tentang desain ini.</p>
+          </div>
+        </div>
+        <div class="carousel-item flex-shrink-0 w-[280px] h-[280px]"> <!-- Mengatur ukuran menjadi 300x300 -->
+          <img src="/assets/img/design18.jpg" alt="Desain 4" class="w-full h-full object-cover" />
+          <div class="p-2">
+            <h3 class="text-sm text-white">Desain 5</h3>
+            <p class="text-gray-400 text-xs">Deskripsi singkat tentang desain ini.</p>
+          </div>
+        </div>
       </div>
       <button class="absolute top-1/2 left-2 transform -translate-y-1/2 text-white bg-gray-800 rounded-full p-2 text-xs" @click="prevSlide">❮</button>
       <button class="absolute top-1/2 right-2 transform -translate-y-1/2 text-white bg-gray-800 rounded-full p-2 text-xs" @click="nextSlide">❯</button>
